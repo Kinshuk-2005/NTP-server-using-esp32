@@ -1,0 +1,7 @@
+NEO-6M/M9N GPS → ESP32
+─────────────────────
+TX             → GPIO 16 (RX2)
+RX             → GPIO 17 (TX2)
+PPS            → GPIO 4
+VCC            → 3.3V
+GND            → GND
