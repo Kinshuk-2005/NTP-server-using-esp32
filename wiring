@@ -1,4 +1,4 @@
-NEO-6M/M9N GPS → ESP32
+NEO-M9N/M9N GPS → ESP32
 ─────────────────────
 TX             → GPIO 16 (RX2)
 RX             → GPIO 17 (TX2)
